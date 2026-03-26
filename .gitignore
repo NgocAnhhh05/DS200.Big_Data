@@ -1,5 +1,18 @@
-vscode/
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Java / Maven
 target/
-.DS_Store/
-_SUCCEESS
-23520042.txt
+*.jar
+
+# Hadoop output
+_SUCCESS
+
+# Data files (nếu không cần push)
+23520042_*.txt
+
+# Logs
+*.log
